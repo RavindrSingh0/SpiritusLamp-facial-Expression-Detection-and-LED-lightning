@@ -37,7 +37,7 @@ This repository contains Python code for real-time facial expression detection u
       - `pip install deepface`
       - `pip install tf_keras`
       - `pip install opencv-python`
-      - - `pip install tf_keras`
+      - `pip install tf_keras`
 
 2. Download the Haar cascade XML file for face detection:
    - Visit the [OpenCV GitHub repository](https://github.com/opencv/opencv/tree/master/data/haarcascades) and download the `haarcascade_frontalface_default.xml` file.
@@ -59,6 +59,6 @@ This repository contains Python code for real-time facial expression detection u
 
 ## Contributors:
 
-- [Ravindar Singh Shekhawat](link-to-your-profile): Project Lead
+- [Ravindar Singh Shekhawat](https://github.com/RavindrSingh0): Project Lead
 
 Feel free to contribute to this project by submitting bug reports, feature requests, or pull requests.
