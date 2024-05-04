@@ -9,7 +9,7 @@ This repository contains Python code for real-time facial expression detection u
 
 ## Files Included:
 
-1. **Arduino_LED_Control.ino:**
+1. **arduinoIDE_facialExpression.ino:**
    - Arduino IDE code for controlling LEDs based on detected emotions.
    - The code listens for commands over the serial port and adjusts the behavior of the LEDs based on the received commands.
 
