@@ -28,6 +28,11 @@ This repository contains Python code for real-time facial expression detection u
 - DeepFace
 - PySerial
 
+## Future Plans and Updates:
+
+- **Custom Model Training:** The project aims to improve accuracy by training custom facial expression recognition models using machine learning techniques.
+- **Enhanced Features:** Future updates will include adding music playback synchronized with LED lighting to create a more immersive experience.
+
 ## Usage:
 ### Initial steps:
 - Git clone this repository Run: ``
